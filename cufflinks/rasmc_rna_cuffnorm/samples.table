@@ -1,0 +1,15 @@
+sample_id	file	total_mass	internal_scale	external_scale
+RASMC_RNA_0H_0	/grail/projects/rasmc/cufflinks/RASMC_RNA_0H_A/abundances.cxb	1.00626e+07	0.908224	1
+RASMC_RNA_0H_1	/grail/projects/rasmc/cufflinks/RASMC_RNA_0H_B/abundances.cxb	1.46687e+07	1.34967	1
+RASMC_RNA_PDGF_2H_0	/grail/projects/rasmc/cufflinks/RASMC_RNA_PDGF_2H_B/abundances.cxb	1.37268e+07	1.08601	1
+RASMC_RNA_PDGF_2H_1	/grail/projects/rasmc/cufflinks/RASMC_RNA_PDGF_2H_C/abundances.cxb	1.00345e+07	0.768709	1
+RASMC_RNA_PDGF_2H_2	/grail/projects/rasmc/cufflinks/RASMC_RNA_PDGF_2H_D/abundances.cxb	1.26844e+07	0.976263	1
+RASMC_RNA_PDGF_JQ1_2H_0	/grail/projects/rasmc/cufflinks/RASMC_RNA_PDGF_JQ1_2H_E/abundances.cxb	1.31694e+07	0.933373	1
+RASMC_RNA_PDGF_JQ1_2H_1	/grail/projects/rasmc/cufflinks/RASMC_RNA_PDGF_JQ1_2H_G/abundances.cxb	1.14602e+07	0.79997	1
+RASMC_RNA_PDGF_JQ1_2H_2	/grail/projects/rasmc/cufflinks/RASMC_RNA_PDGF_JQ1_2H_H/abundances.cxb	1.10838e+07	0.780964	1
+RASMC_RNA_PDGF_24H_0	/grail/projects/rasmc/cufflinks/RASMC_RNA_PDGF_24H_A/abundances.cxb	1.2947e+07	1.16489	1
+RASMC_RNA_PDGF_24H_1	/grail/projects/rasmc/cufflinks/RASMC_RNA_PDGF_24H_B/abundances.cxb	1.25341e+07	1.15613	1
+RASMC_RNA_PDGF_24H_2	/grail/projects/rasmc/cufflinks/RASMC_RNA_PDGF_24H_D/abundances.cxb	1.16023e+07	1.06989	1
+RASMC_RNA_PDGF_JQ1_24H_0	/grail/projects/rasmc/cufflinks/RASMC_RNA_PDGF_JQ1_24H_E/abundances.cxb	1.15209e+07	1.02577	1
+RASMC_RNA_PDGF_JQ1_24H_1	/grail/projects/rasmc/cufflinks/RASMC_RNA_PDGF_JQ1_24H_F/abundances.cxb	1.43513e+07	1.27941	1
+RASMC_RNA_PDGF_JQ1_24H_2	/grail/projects/rasmc/cufflinks/RASMC_RNA_PDGF_JQ1_24H_H/abundances.cxb	1.30445e+07	1.17625	1
